@@ -33,10 +33,11 @@ julia> H = 29.7  # Container width and height
 
 # Solve for the maximum number of rectangles
 julia> packrec.findMaxRec(w, h, W, H)
+Maximum number of rectangles that can fit:6
+Total solve time:61.684911251068115 seconds.
 ```
 
-<img src="https://cms.ufmt.br/files/galleries/109/FCHimg/packrec01.png" alt="packrec logo" width="100">
-
+<img src="packrec.png" alt="packrec logo" width="100">
 
 ## Contributing   
 
