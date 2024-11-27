@@ -35,8 +35,8 @@ julia> H = 29.7  # Container width and height
 julia> packrec.findMaxRec(w, h, W, H)
 ```
 
-![packrec](https://cms.ufmt.br/files/galleries/109/FCHimg/packrec01.png)
- 
+<img src="https://cms.ufmt.br/files/galleries/109/FCHimg/packrec01.png" alt="packrec logo" width="100">
+
 
 ## Contributing   
 
