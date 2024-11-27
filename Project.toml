@@ -1,0 +1,10 @@
+name = "packrec"
+uuid = "57a1a092-aa47-4bb8-bf38-07fdf1875bc3"
+authors = ["hector-fc <fchect@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+GLPK = "60bf3e95-4087-53dc-ae20-288a0d20c6a6"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
