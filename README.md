@@ -46,6 +46,7 @@ Contributions are very welcome.
 ## Authors
 
   * Hector F Callisaya  
+  * Geisiane de Moura Vettorazzi
   
 
 
